@@ -25,8 +25,7 @@ docker-compose up --build
 
 ### 3. Admin Login
 ```
-Email:    admin@bammidi.com
-Password: Bammidi@Admin123
+Email:    
 ```
 
 ---
